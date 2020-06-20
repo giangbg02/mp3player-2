@@ -21,9 +21,9 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Dig Didzay",
-		name: "Nếu Anh Đi (Cover)",
-		url: "Musics/NeuAnhDi.mp3",
+		artist: "Trương Linh Đan",
+		name: "Gặp Đúng Người Sai Thời Điểm",
+		url: "https://github.com/giangbg02/mp3player-2/blob/master/Musics/G%E1%BA%B7p%20%C4%90%C3%BAng%20Ng%C6%B0%E1%BB%9Di%20Sai%20Th%E1%BB%9Di%20%C4%90i%E1%BB%83m%20-%20Chu%20Kim%20H%C3%A0?raw=true.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
