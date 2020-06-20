@@ -25,7 +25,15 @@ $(function()
 		name: "Gặp Đúng Người Sai Thời Điểm",
 		url: "https://github.com/giangbg02/mp3player-2/blob/master/Musics/G%E1%BA%B7p%20%C4%90%C3%BAng%20Ng%C6%B0%E1%BB%9Di%20Sai%20Th%E1%BB%9Di%20%C4%90i%E1%BB%83m%20-%20Chu%20Kim%20H%C3%A0?raw=true.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-	}];
+	},
+		     {
+			     artist: "Đạt G",
+			     name: "Anh ơi ở lại ft Chi Pu",
+			     url: "https://github.com/giangbg02/mp3player-2/blob/master/Musics/Anh%20%C6%A0i%20%E1%BB%9E%20L%E1%BA%A1i?raw=true",
+			     picture: "https://kenh14cdn.com/thumb_w/640/2019/4/25/hai9398-15561851877211598194299-crop-15561853627471592918271.jpg"
+			     }
+		
+		    ];
 	
 	function shuffle(a) {
 		var j, x, i;
